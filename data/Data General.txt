@@ -1,0 +1,64 @@
+
+{
+        "titulo":"CURSOS DE ANIMACIÓN 3D Y VIDEOJUEGOS",
+        "descripcion":"Si te apasiona el mundo de los videojuegos y la animación puedes especializarte combinando el poder de tu imaginación con la última tecnología de animación 3D a través de los Cursos de Animación 3D y Videojuegos en Madrid.\nJunto a equipo docente formado por profesionales en activo, aprenderás las últimas técnica en modelado 3D, arte conceptual, animación de personajes y VFX. Domina las herramientas más potentes de creación y desarrollo y trabaja en tus proyectos de la misma manera que los estudios profesionales. Especialízate y transforma tu pasión en tu futura profesión con todos los medios necesarios a tu alcance.",
+        "imagen":"https://www.cev.com/wp-content/uploads/2022/12/area-animacion-3d-y-vidoejuejos-id.jpeg",
+        "imagen_detalle":"https://www.cev.com/wp-content/uploads/2022/12/5-master-en-arte-3d-animacion-efectos-visuales-para-cine-y-videojuegos-madrid-1.jpeg",
+        "likes":0,
+        "comentarios":0,
+        "calificacion":0,
+        "url":"https://www.cev.com/cursos-profesionales/cursos-de-animacion-3d-y-videojuegos/"
+}
+
+
+{
+        "titulo":"CURSOS DE CINE Y TELEVISIÓN",
+        "descripcion":"Destapa tu parte creativa con los Cursos de Cine y Televisión en Madrid. Aprende a contar historias, escribirlas y convertirlas en producto audiovisual. Adéntrate en el sector y conoce los procesos, equipos y posibilidades que ofrece la industria acompañado y guiado por profesionales del sector.\nTendrás una amplia variedad de recursos y materiales técnicos para poner tus conocimientos en práctica tanto en cine como en televisión. Consigue una experiencia profesional inédita participando en proyectos audiovisuales reales y aprendiendo a ejecutar las tareas que hacen referencia a los distintos equipos que entran en escena en un rodaje.",
+        "imagen":"https://www.cev.com/wp-content/uploads/2022/12/id-cursos-profesionales-cine-id.jpeg",
+        "imagen_detalle":"https://www.cev.com/wp-content/uploads/2022/12/slider-cursos-cine-television.jpeg",
+        "likes":0,
+        "comentarios":0,
+        "calificacion":0,
+        "url":"https://www.cev.com/cursos-profesionales/cursos-de-cine-y-television/"
+}
+
+
+
+{
+        "titulo":"CURSOS DE DISEÑO GRÁFICO Y WEB",
+        "descripcion":"Fomenta tu capacidad creativa con los Cursos Profesionales de diseño gráfico y web. Aprenderás a través de la práctica a crear proyectos desde un briefing inicial. Adaptarás tus creaciones con los programas adecuados e imprimirás cada uno de los trabajos a nivel profesional; flyer promocional,  revista, portada de libro, campaña de publicidad, manual de identidad corporativo, packaging e incluso una página web entre otros. Consigue un doble perfil adaptado a la realidad laboral. Realizarás proyectos profesionales y aprenderás a utilizar las herramientas más representativas que se emplean en el sector.",
+        "imagen":"https://www.cev.com/wp-content/uploads/2022/12/diseno-grafico-y-web.jpeg",
+        "imagen_detalle":"https://www.cev.com/wp-content/uploads/2022/12/cursos-de-diseno-grafico-y-web.jpeg",
+        "likes":0,
+        "comentarios":0,
+        "calificacion":0,
+        "url":"https://www.cev.com/cursos-profesionales/cursos-de-diseno-grafico-y-web/"
+}
+
+
+
+
+{
+        "titulo":"CURSOS DE FOTOGRAFÍA PROFESIONAL E ILUMINACIÓN",
+        "descripcion":"Los Cursos Profesionales de Fotografía e Iluminación de CEV te enseñarán los conocimientos técnicos y prácticos fundamentales para iniciarte en el sector de la imagen. Desarrollarás tu perfil creativo y aprenderás a sacar el máximo partido a una gran variedad de material profesional. Además, te adentrarás en las novedades tecnológicas y digitales del sector, manejando los softwares más empleados en fotografía y adaptándote a las nuevos modelos de comunicación visual.",
+        "imagen":"https://www.cev.com/wp-content/uploads/2022/12/id-cursos-de-fotografia-e-imagen-1.jpeg",
+        "imagen_detalle":"https://www.cev.com/wp-content/uploads/2022/12/slider-cursos-de-fotografia-e-imagen.jpeg",
+        "likes":0,
+        "comentarios":0,
+        "calificacion":0,
+        "url":"https://www.cev.com/cursos-profesionales/cursos-de-fotografia-profesional-e-iluminacion/"
+}
+
+
+
+
+{
+        "titulo":"CURSOS NUEVAS TECNOLOGÍAS",
+        "descripcion":"Adéntrate en un universo apasionante con los Cursos Profesionales de Nuevas Tecnologías. Aprende sobre Big Data, Inteligencia Artificial, bases de datos, programación, sistemas operativos. Consigue un conocimiento práctico en las herramientas más destacadas del mundo tech que te abrirán las puertas del mundo laboral ¡El futuro comienza ahora!",
+        "imagen":"https://www.cev.com/wp-content/uploads/2023/04/id-nuevas-tecnologias.jpg",
+        "imagen_detalle":"https://www.cev.com/wp-content/uploads/2023/04/slider-nuevas-tecnologias.jpg",
+        "likes":0,
+        "comentarios":0,
+        "calificacion":0,
+        "url":"https://www.cev.com/cursos-profesionales/cursos-nuevas-tecnologias/"
+}
